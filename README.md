@@ -1,0 +1,2 @@
+# RETAIL-AND-VENDOR-SYSTEM-USING-DIFFUSING-UPDATE-ALGORITHM
+This explores the concept of a network between retail and vendor. A network retail shop refers to a business model that leverages a network of interconnected retail shops to amplify its presence and provide a seamless shopping experience to customers. One of the key strategies is establishing a connection between all the subdivisions in the system.
